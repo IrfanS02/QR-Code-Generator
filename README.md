@@ -26,7 +26,9 @@ A simple and responsive web application that generates a **QR code** from user i
 
 ## 📸 Screenshots
 
-![Screenshot](![image](https://github.com/user-attachments/assets/3ab2ddd3-1092-4e13-a451-2b3a92ed4e2c)
+![Screenshot](![Screenshot 2025-04-11 153829](https://github.com/user-attachments/assets/895b0b29-3a47-4a08-960a-a33a9730acf1)
+)
+)
 )
 
 ---
